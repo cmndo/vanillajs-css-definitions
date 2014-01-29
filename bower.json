@@ -1,0 +1,5 @@
+{
+  "name": "vanilla-css-definitions",
+  "version": "1.0.0",
+  "main": ["./style.js"]
+}
