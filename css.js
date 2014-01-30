@@ -1,7 +1,7 @@
 (function(){
 	/*
 
-		Style - Vanilla JavaScript for jQuery-like CSS
+		CSS - Vanilla JavaScript for jQuery-like CSS
 		Made by Aaron Sherrill 
 
 		$('.classname').css({paddingTop: '100px'});
