@@ -39,6 +39,9 @@ Javascript
   		background: "pink"
 	}); 
 
+
+Check out [the example!](http://jsbin.com/oqecUcIM/5/edit "Bam!")
+
 If you have any issues, be sure to reach out to me on Twitter @codecommando
 
 **MIT Open Source License**
