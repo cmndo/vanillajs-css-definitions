@@ -40,7 +40,7 @@ Javascript
 	}); 
 
 
-Check out [the example!](http://jsbin.com/oqecUcIM/5/edit "Bam!")
+Check out [the example!](http://jsfiddle.net/LChsK/ "Bam!")
 
 If you have any issues, be sure to reach out to me on Twitter @codecommando
 
